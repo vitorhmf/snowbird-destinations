@@ -1,0 +1,33 @@
+group,indicator,country,unit,value,rank
+security,Feeling safe walking alone at night,Mexico,Percentage,42.0,3.0
+security,Feeling safe walking alone at night,United States,Percentage,78.0,1.0
+security,Feeling safe walking alone at night,Brazil,Percentage,45.0,2.0
+security,Feeling safe walking alone at night,Chile,Percentage,41.0,4.0
+people,Employment rate,Mexico,Percentage,59.0,2.0
+people,Employment rate,United States,Percentage,67.0,1.0
+people,Employment rate,Brazil,Percentage,57.0,3.0
+people,Employment rate,Chile,Percentage,56.0,4.0
+people,Educational attainment,Mexico,Percentage,42.0,4.0
+people,Educational attainment,United States,Percentage,92.0,1.0
+people,Educational attainment,Brazil,Percentage,57.0,3.0
+people,Educational attainment,Chile,Percentage,67.0,2.0
+environment,Air pollution,Mexico,Micrograms per cubic metre,20.3,2.0
+environment,Air pollution,United States,Micrograms per cubic metre,7.7,4.0
+environment,Air pollution,Brazil,Micrograms per cubic metre,11.7,3.0
+environment,Air pollution,Chile,Micrograms per cubic metre,23.4,1.0
+environment,Water quality,Mexico,Percentage,75.0,2.0
+environment,Water quality,United States,Percentage,88.0,1.0
+environment,Water quality,Brazil,Percentage,70.0,3.0
+environment,Water quality,Chile,Percentage,62.0,4.0
+people,Life expectancy,Mexico,Years,75.1,4.0
+people,Life expectancy,United States,Years,78.9,2.0
+people,Life expectancy,Brazil,Years,75.9,3.0
+people,Life expectancy,Chile,Years,80.6,1.0
+people,Life satisfaction,Mexico,Average score,6.0,4.0
+people,Life satisfaction,United States,Average score,7.0,1.0
+people,Life satisfaction,Brazil,Average score,6.1,3.0
+people,Life satisfaction,Chile,Average score,6.2,2.0
+security,Homicide rate,Mexico,Ratio,26.8,1.0
+security,Homicide rate,United States,Ratio,6.0,3.0
+security,Homicide rate,Brazil,Ratio,19.0,2.0
+security,Homicide rate,Chile,Ratio,2.4,4.0
