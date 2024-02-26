@@ -2,7 +2,7 @@
 
 ### End-to-End Data Case: from ETL to Dashboard Development.
 
-<img src="image/github_cover.png" width="1000">
+<img src="0_images/github_cover.png" width="1000">
 
 ## 1. Abstract
 
