@@ -10,7 +10,7 @@ def assign_group(indicator):
     else:
         return 'people'
 
-def transform_cities_metrics(filepath):
+def transform_countries_metrics(filepath):
     df = pd.read_csv(filepath)
 
     # Filters
@@ -58,8 +58,8 @@ def transform_cities_metrics(filepath):
     return df_final
 
 def main():
-    df_final = transform_cities_metrics(BETTER_LIFE_INDEX)
-    df_final.to_csv('2_curated/cities_metrics.csv', index=False)
+    df_final = transform_countries_metrics(BETTER_LIFE_INDEX)
+    df_final.to_csv('snowbird-destinations/2_curated_layer/countries_metrics.csv', index=False)
 
 if __name__ == "__main__":
     main()

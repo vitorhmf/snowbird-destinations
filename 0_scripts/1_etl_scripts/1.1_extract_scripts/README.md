@@ -1,0 +1,1 @@
+### Note: In this first stage of the project I worked only with static sources, not requiring data extraction scripts for any source.
