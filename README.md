@@ -19,13 +19,20 @@ The aims of the project were divided in two parts:
      
  * **Part 2:** Development of a Regression Model applied to time series to predict the sea temperature throughout the year. Click [here](https://github.com/vitorhmf/irish-sea#6-machine-learning-modeling) to go to Part 2.
 
+<div align="center">
+    <img src="0_images/data_stack.png" width="500">
+</div>
+
+
 ## 2. Methodology
 
 The CRISP-DM framework was the guide for this data project development. 
 
 CRISP-DM, which stands for Cross-Industry Standard Process for Data Mining, is an industry-proven way to guide your data mining efforts and it includes descriptions of the typical phases of a project, the tasks involved with each phase, and an explanation of the relationships between these tasks.
 
-<img src="0_images/crisp_process.jpg" width="500">
+<div align="center">
+     <img src="0_images/crisp_process.jpg" width="500">
+</div>
 
 **Source:* [IBM Docs](https://www.ibm.com/docs/en/spss-modeler/18.2.0?topic=dm-crisp-help-overview)
 
@@ -41,6 +48,9 @@ To direct your reading, below are links to the development carried out at each s
 ## 3. Business Understanding
 
 ### 3.1. Context
+
+<img src="0_images/mind_map_business_understanding.png" width="1000">
+
 
 ### 3.2. Business assumption:
 
@@ -69,6 +79,8 @@ ETL Meaning
 ## 6. Data Modeling 
 
 ### 6.1 Metrics
+
+<img src="0_images/mind_map_score.png" width="1000">
 
 ## 7. Evaluation
 
