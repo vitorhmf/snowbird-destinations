@@ -17,9 +17,9 @@ The project was developed using the data stack below. I used Python scripts to c
 </div>
 
 
-The Dashboard: 
+Watch the brief presentation below of the solution developed through a dashboard in Power BI:
 <div align="center">
-    <img src="0_images/ls_case_dash.gif" width="500">
+    <img src="0_images/ls_case_dash.gif" width="800">
 </div>
 
 **Link:* [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGRmNWFmMjktOWNhZi00NGEwLTk0YzAtNjQ2OGYxZGVjNmY5IiwidCI6IjgyOWZmMzMyLTMxYmEtNDg0ZC1iNDQ4LWU1NDYxMzE3ZWZjYSJ9)
@@ -148,6 +148,8 @@ Finally, I included a comprehensive table for more detailed analyses, enabling u
 <div align="center">
     <img src="0_images/dash_4.png" width="800">
 </div>
+
+**Link:* [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGRmNWFmMjktOWNhZi00NGEwLTk0YzAtNjQ2OGYxZGVjNmY5IiwidCI6IjgyOWZmMzMyLTMxYmEtNDg0ZC1iNDQ4LWU1NDYxMzE3ZWZjYSJ9)
 
 
 ## 9. Next Steps
