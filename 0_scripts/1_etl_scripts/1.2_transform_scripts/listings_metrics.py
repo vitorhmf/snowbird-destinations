@@ -26,7 +26,7 @@ def transform_listings_data(files_and_regions):
 
         #Filtering
         df_filtered = df[
-            ['id', 'city', 'location', 'picture_url', 'listing_url', 'room_type', 'accommodates', 'price', 'beds', 'review_scores_rating', 'number_of_reviews', 'latitude',
+            ['id', 'name', 'city', 'location', 'picture_url', 'listing_url', 'room_type', 'accommodates', 'price', 'beds', 'review_scores_rating', 'number_of_reviews', 'latitude',
        'longitude']
                 (df['number_of_reviews'] > 0) &
                 (df['review_scores_rating'] >= 4) &
