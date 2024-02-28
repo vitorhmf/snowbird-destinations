@@ -36,14 +36,6 @@ CRISP-DM, which stands for Cross-Industry Standard Process for Data Mining, is a
 
 **Source:* [IBM Docs](https://www.ibm.com/docs/en/spss-modeler/18.2.0?topic=dm-crisp-help-overview)
 
-To direct your reading, below are links to the development carried out at each stage of the CRISP cycle:
-
-* [Business Understanding](https://github.com/vitorhmf/snowbird-destinations#3-business-understanding)
-* [Data Understanding](https://github.com/vitorhmf/snowbird-destinations#4-data-understanding)
-* [Data Preparation](https://github.com/vitorhmf/snowbird-destinations#5-data-preparation)
-* [Data Modeling](https://github.com/vitorhmf/snowbird-destinations#6-data-modeling)
-* [Depoyment](https://github.com/vitorhmf/snowbird-destinations#7-deployment)
-
 ## 3. Business Understanding
 
 ### 3.1. Context
@@ -58,8 +50,6 @@ All the conditions presented in the case description were organized in the mind 
 * Due to the time zone restriction of +/- 3 hours from the Central Time Zone, the possibilities were limited to regions in North, Central, and South America.
 * In the first version of the project, a small sample of some cities in the possible regions was defined, which were: Los Angeles, San Diego, Borward, Rio de Janeiro, Santiago, and Belize.
 
-[Back to the top](https://github.com/vitorhmf/snowbird-destinations#2-methodology)
-
 ## 4. Data Understanding
 
 For each of the three axes of the business understanding mind map, I sought data sources that would provide inputs for the development of the project. Below are all of them listed:
@@ -71,9 +61,6 @@ For each of the three axes of the business understanding mind map, I sought data
     * [World Population](https://worldpopulationreview.com/) - This resource offers demographic data, including population statistics and information for cities and countries globally.
 * Better Place:
     * [Inside Airbnb](http://insideairbnb.com/) -  Inside Airbnb provides detailed data and analysis about Airbnb listings and metrics across different cities around the world.
-
-[Back to the top](https://github.com/vitorhmf/snowbird-destinations#2-methodology)
-
 
 
 ## 5. Data Preparation - ETL Process
@@ -93,8 +80,6 @@ To facilitate the data's integration and analysis in the modeling phase, I craft
 ### 5.3 Load:
 
 Upon completing the data transformation, I exported the refined datasets into CSV files. These were then securely uploaded and stored in an Amazon S3 bucket, ensuring they were readily available for further processing and analysis in a scalable and cloud-based environment.
-
-[Back to the top](https://github.com/vitorhmf/snowbird-destinations#2-methodology)
 
 ## 6. Data Modeling 
 
@@ -158,8 +143,6 @@ Finally, I included a comprehensive table for more detailed analyses, enabling u
 * Refine the formula used for calculating the Snowbird Score, including the definition of weights for each metric to develop a weighted average. This will allow for a more nuanced and accurate representation of each location's suitability.
 * Develop a machine learning model using classification algorithms to assess the likelihood of an Airbnb listing being recommended for the family. This will leverage predictive analytics to enhance the decision-making process, providing more personalized and accurate recommendations.
 
-[Back to the top](https://github.com/vitorhmf/snowbird-destinations#2-methodology)
-
 ## 10. References
 
 * [CRISP-DM (IBM Docs)](https://www.ibm.com/docs/en/spss-modeler/18.2.0?topic=dm-crisp-help-overview)
@@ -167,5 +150,3 @@ Finally, I included a comprehensive table for more detailed analyses, enabling u
 * [OECD](https://www.oecd.org/)
 * [World Population](https://worldpopulationreview.com/)
 * [Inside Airbnb](http://insideairbnb.com/)
-
-[Back to the top](https://github.com/vitorhmf/snowbird-destinations#2-methodology)
