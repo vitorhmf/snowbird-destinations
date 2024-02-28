@@ -136,8 +136,13 @@ Click [here](https://app.powerbi.com/view?r=eyJrIjoiOGRmNWFmMjktOWNhZi00NGEwLTk0
 
 ## 9. Next Steps
 
+All the improvement opportunities presented below are the result of a trade-off with time. 
+
+To complete the project within the deadline while meeting as many of the proposed requirements as possible, I needed to make some conscious decisions. This involved sacrificing a deeper level of detail and complexity and opting to achieve the proposed objective, even if in a simpler way.
+
 * Implement dynamic data sources that automatically update through extraction scripts orchestrated with tools such as Airflow. This will ensure that the data remains current and reflects the latest market conditions and environmental data.
 * Expand the dataset to include more cities and detailed attributes, such as the number of bedrooms, the presence of a pool, and other amenities that could influence the desirability of a lodging option.
+* Deepen the statistical analysis of the data in search of new insights and possible distortions caused by outliers.
 * Refine the formula used for calculating the Snowbird Score, including the definition of weights for each metric to develop a weighted average. This will allow for a more nuanced and accurate representation of each location's suitability.
 * Develop a machine learning model using classification algorithms to assess the likelihood of an Airbnb listing being recommended for the family. This will leverage predictive analytics to enhance the decision-making process, providing more personalized and accurate recommendations.
 
