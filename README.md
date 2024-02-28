@@ -6,9 +6,9 @@
 
 ## 1. Abstract
 
-This Case was proposed by [LeadSimple](https://leadsimple.com/) in its selection process for the vacancy of Product Data Analyst. Its main objective is to verify the candidate's proficiency in tools such as: Python, SQL, Data Visualization, and Cloud Computing.
+This case was proposed by [LeadSimple](https://leadsimple.com/) in its selection process for the vacancy of Product Data Analyst. Its main objective is to verify the candidate's proficiency in tools such as Python, SQL, Data Visualization, and Cloud Computing.
 
-For this, an end-to-end data project was developed to present data-driven recommendations on the top 3 places a couple and three children could go during the winter months and how long they should stay there.
+For this, an end-to-end data project was developed to present data-driven recommendations on the top 3 places a couple and three children could go during the winter months and how long they should stay there, in a common practice known as Snowbirding.
 
 The project was developed using the data stack below. I used Python scripts to carry out the ETL process, applied SQL in a Data Warehouse on Redshift, performed data modeling, and finally developed the dashboard using Power BI and its native language, DAX.
 
@@ -38,12 +38,11 @@ CRISP-DM, which stands for Cross-Industry Standard Process for Data Mining, is a
 
 To direct your reading, below are links to the development carried out at each stage of the CRISP cycle:
 
-* [Business Understanding](https://github.com/vitorhmf/irish-sea#3-business-understanding)
-* [Data Understanding](https://github.com/vitorhmf/irish-sea#4-data-understanding)
-* [Data Preparation](https://github.com/vitorhmf/irish-sea#5-data-preparation)
-* [Machine Learning Modeling](https://github.com/vitorhmf/irish-sea#6-machine-learning-modeling)
-* [Evaluation](https://github.com/vitorhmf/irish-sea#7-evaluation)
-* [Depoyment](https://github.com/vitorhmf/irish-sea#8-deployment)
+* [Business Understanding](https://github.com/vitorhmf/snowbird-destinations#3-business-understanding)
+* [Data Understanding](https://github.com/vitorhmf/snowbird-destinations#4-data-understanding)
+* [Data Preparation](https://github.com/vitorhmf/snowbird-destinations#5-data-preparation)
+* [Data Modeling](https://github.com/vitorhmf/snowbird-destinations#6-data-modeling)
+* [Depoyment](https://github.com/vitorhmf/snowbird-destinations#7-deployment)
 
 ## 3. Business Understanding
 
@@ -57,7 +56,7 @@ All the conditions presented in the case description were organized in the mind 
 ### 3.2. Business assumption:
 
 * Due to the time zone restriction of +/- 3 hours from the Central Time Zone, the possibilities were limited to regions in North, Central, and South America.
-* In the first version of the project, a sample of some cities in the possible regions was defined, which were: Los Angeles, San Diego, Borward, Rio de Janeiro, Santiago, and Belize.
+* In the first version of the project, a small sample of some cities in the possible regions was defined, which were: Los Angeles, San Diego, Borward, Rio de Janeiro, Santiago, and Belize.
 
 [Back to the top](https://github.com/vitorhmf/snowbird-destinations#2-methodology)
 
