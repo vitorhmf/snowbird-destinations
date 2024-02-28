@@ -8,21 +8,18 @@
 
 This Case was proposed by [LeadSimple](https://leadsimple.com/) in its selection process for the vacancy of Product Data Analyst. Its main objective is to verify the candidate's proficiency in tools such as: Python, SQL, Data Visualization, and Cloud Computing.
 
-For this, an end-to-end data project was developed based on the last year information available on the [DigitalOcean.ie](https://www.digitalocean.ie/Home/About) portal, which gathers data from various sources on Ireland’s maritime zone.
+For this, an end-to-end data project was developed to present data-driven recommendations on the top 3 places a couple and three children could go during the winter months and how long they should stay there.
 
-The aims of the project were divided in two parts:
-
- * **Part 1:** Answer the following questions about the Irish sea. Click [here](https://github.com/vitorhmf/irish-sea#45-exploratory-data-analysis) to go to Part 1.
-     - Q1: What is the lowest temperature of each one of the Bouys? Which usually month it occurs?
-     - Q2: Where (lat/long) do we have the biggest water level? Which usually month it occurs?
-     - Q3: How the Wave Lenghts correlates with Sea Temperature? It is possible to predict with accuracy the Wave Lenght, based on the Sea Temperature and the Bouy location?
-     
- * **Part 2:** Development of a Regression Model applied to time series to predict the sea temperature throughout the year. Click [here](https://github.com/vitorhmf/irish-sea#6-machine-learning-modeling) to go to Part 2.
+The project was developed using the data stack below. I used Python scripts to carry out the ETL process, applied SQL in a Data Warehouse on Redshift, performed data modeling, and finally developed the dashboard using Power BI and its native language, DAX.
 
 <div align="center">
     <img src="0_images/data_stack.png" width="500">
 </div>
 
+The Dashboard: 
+<div align="center">
+    <img src="0_images/data_stack.png" width="500">
+</div>
 
 ## 2. Methodology
 
@@ -66,7 +63,7 @@ To direct your reading, below are links to the development carried out at each s
 
 ## 5. Data Preparation - ETL Process
 
-ETL Meaning
+ETL stands for Extract, Transform, Load. It is a process used in database usage and data warehousing. The ETL process involves extracting data from various sources, transforming the data into a suitable format, and then loading it into a target database or data warehouse for analysis or reporting. This process is critical for data integration and helps in consolidating, cleaning, and organizing data from multiple sources.
 
 ### 5.1 Extract:
 
