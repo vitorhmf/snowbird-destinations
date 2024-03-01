@@ -107,6 +107,8 @@ This approach allowed for a balanced evaluation of each lodging option, ensuring
 
 For the presentation of the developed solution and the development of storytelling, I utilized Power BI to create a dashboard. 
 
+Click [here](https://app.powerbi.com/view?r=eyJrIjoiOGRmNWFmMjktOWNhZi00NGEwLTk0YzAtNjQ2OGYxZGVjNmY5IiwidCI6IjgyOWZmMzMyLTMxYmEtNDg0ZC1iNDQ4LWU1NDYxMzE3ZWZjYSJ9) to see the complete dashboard.
+
 Within this dashboard, I constructed a ranking based on the results of the Snowbird Score, which is composed of the ten metrics mentioned earlier. Users have the flexibility to select variables such as price, city, and country to determine the top three lodging options according to their preferences.
 
 <div align="center">
