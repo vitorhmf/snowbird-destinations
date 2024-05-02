@@ -6,7 +6,7 @@
 
 ## 1. Abstract
 
-The main objective of this project was to verify my proficiency in tools such as Python, SQL, Data Visualization, and Cloud Computing.
+The main objective of this project was to show my proficiency in tools such as Python, SQL, Data Visualization, and Cloud Computing.
 
 For this, an end-to-end data project was developed to present data-driven recommendations on the top 3 places a couple and three children could go during the winter months and how long they should stay there, in a common practice known as Snowbirding.
 
