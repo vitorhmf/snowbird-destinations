@@ -1,12 +1,12 @@
 # Snowbird Destinations Analysis
 
-### End-to-End Data Case: from ETL to Dashboard Development.
+### End-to-End Data Project: from ETL to Dashboard Development.
 
 <img src="0_images/github_cover.png" width="1000">
 
 ## 1. Abstract
 
-This case was proposed by [LeadSimple](https://leadsimple.com/) in its selection process for the vacancy of Product Data Analyst. Its main objective is to verify the candidate's proficiency in tools such as Python, SQL, Data Visualization, and Cloud Computing.
+The main objective of this project was to verify my proficiency in tools such as Python, SQL, Data Visualization, and Cloud Computing.
 
 For this, an end-to-end data project was developed to present data-driven recommendations on the top 3 places a couple and three children could go during the winter months and how long they should stay there, in a common practice known as Snowbirding.
 
@@ -106,8 +106,6 @@ This approach allowed for a balanced evaluation of each lodging option, ensuring
 ## 7. Deployment
 
 For the presentation of the developed solution and the development of storytelling, I utilized Power BI to create a dashboard. 
-
-Click [here](https://app.powerbi.com/view?r=eyJrIjoiOGRmNWFmMjktOWNhZi00NGEwLTk0YzAtNjQ2OGYxZGVjNmY5IiwidCI6IjgyOWZmMzMyLTMxYmEtNDg0ZC1iNDQ4LWU1NDYxMzE3ZWZjYSJ9) to see the complete dashboard.
 
 Within this dashboard, I constructed a ranking based on the results of the Snowbird Score, which is composed of the ten metrics mentioned earlier. Users have the flexibility to select variables such as price, city, and country to determine the top three lodging options according to their preferences.
 
